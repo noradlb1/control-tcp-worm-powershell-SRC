@@ -1,0 +1,13 @@
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mr3amo\Desktop\control tcp_js\bin\Debug\Control_Test.exe
+C:\Users\Mr3amo\Desktop\control tcp_js\bin\Debug\Control_Test.pdb
+C:\Users\Mr3amo\Desktop\control tcp_js\bin\Debug\Control_Test.xml
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\Control_Test.Form1.resources
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\Control_Test.Resources.resources
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\Control_Test.exe
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\Control_Test.xml
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\Control_Test.pdb
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\Control_Test.Form2.resources
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\Control_Test.Form3.resources

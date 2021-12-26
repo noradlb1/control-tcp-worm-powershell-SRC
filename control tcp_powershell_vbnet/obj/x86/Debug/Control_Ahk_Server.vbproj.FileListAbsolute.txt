@@ -1,0 +1,25 @@
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\bin\Debug\Control_Ahk_Server.exe
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\bin\Debug\Control_Ahk_Server.pdb
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\bin\Debug\Control_Ahk_Server.xml
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\obj\x86\Debug\Control_Ahk_Server.Form1.resources
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\obj\x86\Debug\Control_Ahk_Server.Resources.resources
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\obj\x86\Debug\Control_Ahk_Server.exe
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\obj\x86\Debug\Control_Ahk_Server.xml
+C:\Users\Mr3amo\Desktop\Control_Ahk_Server\obj\x86\Debug\Control_Ahk_Server.pdb
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\obj\x86\Debug\Control_Ahk_Server.exe
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\obj\x86\Debug\Control_Ahk_Server.xml
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\obj\x86\Debug\Control_Ahk_Server.pdb
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\bin\Debug\Control_Ahk_Server.exe
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\bin\Debug\Control_Ahk_Server.pdb
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\bin\Debug\Control_Ahk_Server.xml
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\obj\x86\Debug\Control_Ahk_Server.Form1.resources
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\obj\x86\Debug\Control_Ahk_Server.Resources.resources
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mr3amo\Desktop\Autohotkey1\Control_Ahk_Server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\Control_Ahk_Server.exe
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\Control_Ahk_Server.xml
+C:\Users\Mr3amo\Desktop\control tcp_js\obj\x86\Debug\Control_Ahk_Server.pdb
